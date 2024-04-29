@@ -61,6 +61,12 @@ Aqui estão alguns dos recursos da linguagem PHP que o autor do vídeo utiliza:
 
 O código deste projeto foi criado pelo canal Monolito PHP¹[1].
 
+[Monolito PHP's GitHub Repository](https://github.com/vilsonsampaio/task-manager)
+- [Sistema simples de gerenciamento de tarefas com testes automatizados](https://github.com/walterhml/simple-task-management-system-with-php)
+- [Gerenciador simples de tarefas usando conexão com banco de dados MySQL](https://github.com/felipetulio/gerenciador-tarefas-simples)
+- [Aplicação de gerenciador de tarefas utilizando HTML, CSS e PHP](https://github.com/emilypessoa/GerenciadorDeTarefas)
+
+
 ### Link para o Vídeo Tutorial
 
 Assista ao tutorial completo no YouTube: [Projeto - Gerenciador de Tarefas](https://www.youtube.com/watch?v=dJ49I-QYYUk)¹[1].
