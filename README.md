@@ -65,6 +65,9 @@ O código deste projeto foi criado pelo canal Monolito PHP¹[1].
 - [Sistema simples de gerenciamento de tarefas com testes automatizados](https://github.com/walterhml/simple-task-management-system-with-php)
 - [Gerenciador simples de tarefas usando conexão com banco de dados MySQL](https://github.com/felipetulio/gerenciador-tarefas-simples)
 - [Aplicação de gerenciador de tarefas utilizando HTML, CSS e PHP](https://github.com/emilypessoa/GerenciadorDeTarefas)
+- [Inteligência Artifcial](https://chat.openai.com/)
+-[alura](https://www.alura.com.br/artigos/escrever-bom-readme?utm_term=&utm_campaign=&utm_source=adwords&utm_medium=ppc&hsa_acc=7964138385&hsa_cam=20946398532&hsa_grp=153091871930&hsa_ad=688089973825&hsa_src=g&hsa_tgt=dsa-2258482177123&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gad_source=1&gclid=Cj0KCQjwncWvBhD_ARIsAEb2HW8ijk7NVhpuiVanaYEGFFOvZkBpjlnMcjF5Wcw-slwIVdYTzACJOG4aAiywEALw_wcB)
+-[Microsoft Bing](https://www.bing.com/chat?q=Microsoft+Copilot&FORM=hpcodx)
 
 
 ### Link para o Vídeo Tutorial
