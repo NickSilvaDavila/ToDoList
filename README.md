@@ -79,4 +79,4 @@ Assista ao tutorial completo no YouTube: [Projeto - Gerenciador de Tarefas](http
 
 ###AUTORES
 
-Nicolly da Silva D'avila 3*A
+Nicolly da Silva D'avila 3*A (https://github.com/NickSilvaDavila)
