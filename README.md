@@ -17,8 +17,8 @@
 O projeto consiste em criar um sistema de gerenciamento de tarefas, permitindo que os usuários adicionem, visualizem e atualizem suas tarefas. Ele utiliza uma abordagem  
 monolítica, onde todas as funcionalidades estão contidas em um único processo.
 
-![image info](ListaTarefas.png)
 ![image info](ListaTarefas2.png)
+![image info](ListaTarefas.png)
 
 ### Funcionalidades
 
