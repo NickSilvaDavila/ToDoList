@@ -65,6 +65,6 @@ O código deste projeto foi criado pelo canal Monolito PHP¹[1].
 
 Assista ao tutorial completo no YouTube: [Projeto - Gerenciador de Tarefas](https://www.youtube.com/watch?v=dJ49I-QYYUk)¹[1].
 
-#Autores
+###AUTORES
 
 Nicolly da Silva D'avila 3*A
